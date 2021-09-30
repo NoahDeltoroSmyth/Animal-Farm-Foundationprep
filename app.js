@@ -23,3 +23,4 @@ astleyImage2.addEventListener('click', ()=>{
 astleyImage3.addEventListener('click', ()=>{
   astleySound3.play();
 });
+
